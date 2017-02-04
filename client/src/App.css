@@ -22,3 +22,5 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+.iconsStyle ul{list-style-type: none;overflow: hidden}
+.iconsStyle ul li{float: left;margin-right: 15px;}
